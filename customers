@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "name": "Mike",
+        "email": "mike@gmail.com",
+        "phone_number": "123-123-123",
+        "date_of_birth": "1990-01-01",
+        "address": "London leeds abc street"
+    }
+]
